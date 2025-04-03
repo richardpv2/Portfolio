@@ -1,0 +1,13 @@
+{
+  "title": "Contact Me",
+  "contactmetext": [
+    "You can contact me via email:",
+    "Or via WhatsApp at my personal number:",
+    "You can also leave me a message and I will get back to you as soon as possible."
+  ],
+  "email": "Enter your email address",
+  "message": "Enter your question (optional)",
+  "button": "Submit",
+  "loading": "Loading",
+  "sended": "Request sent!"
+}
